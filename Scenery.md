@@ -16,7 +16,7 @@ paginate: true
 _paginate: false
 _footer: 'Designed by xxlgenius 2023-8-30'
 -->
-![bg vertical w:1300px](./images/bg0.1.png)
+![bg vertical w:1300px](https://cdn.jsdelivr.net/gh/xxlgenius/marp-theme/images/bg0.1.jpg)
 # Title
 <br/>
 <br/>
