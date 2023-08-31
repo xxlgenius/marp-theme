@@ -2,7 +2,7 @@
 /* @theme QMUL */
 
 @charset "UTF-8";
-@import 'uncover';
+@import 'default';
 @import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:400,700&display=swap');
 @import '~highlight.js/styles/sunburst';
 
@@ -15,6 +15,14 @@ section {
    font-family:Arial, Helvetica, sans-serif;
    background:whitesmoke;
   }
+
+  ul {
+    text-align: left; /* 将列表项文本左对齐 */
+}
+
+ol {
+  text-align: left; /* 将有序列表项文本左对齐 */
+}
  
   h1 {
    text-align:left;
@@ -50,6 +58,7 @@ section {
 
   h6 {
     text-align:center;
+    color: black;
     font-size:30px;
     text-align:left;
     margin-top: 10px;
@@ -76,17 +85,30 @@ section {
   }
 
 
-  .columns2 {
+  .column2 {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
   }
 
-  .columns3 {
+  .column3 {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1rem;
   }
+
+  .end {
+    display: block;
+  }
+
+  .end h1{
+    text-align: center;
+    color: rgb(60, 112, 198);
+    margin-top: 150px;
+    margin-bottom: 0px;
+    font-size:72px;
+  }
+
 
 
 

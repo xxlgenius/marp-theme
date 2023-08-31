@@ -2,10 +2,15 @@
 marp: true
 theme: QMUL
 ---
+## Colume CSS require user setting
+
+![](https://cdn.jsdelivr.net/gh/xxlgenius/blog_img/2023/08/31/a9f83ff98cd894217e5a28c143b66389.png)
+
+---
 
 # Multi columns in Marp slide
 
-<div class="columns2">
+<div class="column2">
 
 <div>
 
@@ -27,7 +32,7 @@ Tempore ad exercitationem necessitatibus nulla, optio distinctio illo non simili
 
 # Multi columns in Marp slide
 
-<div class="columns3">
+<div class="column3">
 
 <div>
 

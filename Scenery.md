@@ -16,7 +16,7 @@ paginate: true
 _paginate: false
 _footer: 'Designed by xxlgenius 2023-8-30'
 -->
-![bg vertical w:1300px](images/bg0.1.png)
+![bg vertical w:1300px](./images/bg0.1.png)
 # Title
 <br/>
 <br/>
@@ -133,7 +133,7 @@ $$
 ### 普通图片
 图片滤镜命令
 
-![img w:500px](images/photo.png)
+![img w:700px](images/photo.png)
 
 
 ---
@@ -163,24 +163,16 @@ $$
 > theme uncover 源代码 [link](https://github.com/marp-team/marp-core/blob/main/themes/uncover.scss)
 
 ---
-<style scoped>
-    section {
-  text-align: center;
-    }
-    h1{
-        text-align:center;
-    }
-   
-</style>
-
-<!--
-_paginate: false、
+<!-- 
 _footer: 'Designed by xxlgenius 2023-8-30' 
+_paginate: false
 -->
 
-
+<div class="end">
 
 # END
+
+</div>
 
 
 
